@@ -1,0 +1,23 @@
+{
+  "name": "gotravel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2tracks/GoTravel-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2tracks/GoTravel-Site/issues"
+  },
+  "homepage": "https://github.com/2tracks/GoTravel-Site#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
